@@ -1,0 +1,14 @@
+a:26:{s:13:"defaultfooter";s:407:"<div class="row">
+	<div class="col-md-8">
+		<h3 class="-align-center">Sistemas Tecnológicos Alcaravan C.A</h3>
+	</div>
+	<div class="col-md-4">
+		<h3>Contacto</h3>
+
+		<ul class="labeled-icons">
+			<li>
+                <span class="fa fa-globe" aria-hidden="true"></span>
+                <a href="https://trema.tech/" target="_blank">http://unerg.alcaravan.com.ve</a></li>
+		</ul>
+	</div>
+</div>";s:20:"defaultfrontpagebody";s:0:"";s:20:"enableadmindashboard";s:1:"1";s:16:"enablefooterinfo";s:1:"0";s:17:"enabletrematopics";s:1:"0";s:7:"favicon";s:0:"";s:15:"frontpagebanner";s:14:"/Recurso 6.jpg";s:20:"frontpagebuttonclass";s:11:"btn-primary";s:19:"frontpagebuttonhref";s:33:"http://unerg.alcaravan.com.ve/my/";s:19:"frontpagebuttontext";s:27:"Iniciar ruta de aprendizaje";s:20:"frontpageenablecards";s:0:"";s:17:"frontpagesubtitle";s:0:"";s:14:"frontpagetitle";s:10:"Bienvenido";s:20:"loginbackgroundimage";s:14:"/Recurso 6.jpg";s:14:"loginpagestyle";s:5:"image";s:14:"numberofimages";s:1:"1";s:25:"particles_backgroundcolor";s:7:"#020221";s:22:"particles_circlescolor";s:7:"#FFFFFF";s:6:"preset";s:10:"trema.scss";s:12:"primarycolor";s:7:"#333333";s:4:"scss";s:0:"";s:7:"scsspre";s:0:"";s:14:"secondarycolor";s:7:"#39BE9E";s:13:"showmycourses";s:1:"0";s:11:"summarytype";s:5:"modal";s:7:"version";s:10:"2021080900";}

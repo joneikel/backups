@@ -1,0 +1,11 @@
+O:8:"stdClass":9:{s:7:"modinfo";a:1:{i:47;O:8:"stdClass":14:{s:2:"id";s:2:"25";s:2:"cm";s:2:"47";s:3:"mod";s:4:"page";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"36";s:6:"module";s:2:"16";s:5:"added";s:10:"1632150384";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:15:"showdescription";s:1:"1";s:4:"name";s:8:"Prueba 1";s:7:"content";s:109:"<div class="no-overflow"><iframe src="https://www.geoplaner.com/" width="100%" height="600px"></iframe></div>";}}s:12:"sectioncache";a:2:{i:0;O:8:"stdClass":4:{s:2:"id";s:2:"35";s:4:"name";s:0:"";s:7:"summary";s:880:"<p style="text-align: center;"><img src="@@PLUGINFILE@@/Recurso%201.png" alt="" width="595" height="285" role="presentation" class="img-fluid atto_image_button_text-bottom"><br></p><br>
+<h1 dir="ltr" style="text-align: center;"><strong style="color:#1A237E;">Servicio Comunitario UNERG</strong></h1>
+
+<h3 dir="ltr" style="text-align: center;"><strong style="color:#1A237E;">A continuación hay una serie de secciones, con preguntas muy sencillas para que conozcas elementos importantes, para el trabajo y la vida diaria.</strong></h3>
+
+<h3 dir="ltr" style="text-align: center;"><strong style="color:#1A237E;">No importa si te equivocas, lo importante acá es acercarnos a estos conceptos, realidades que son parte de la ciencia y nos ayudará a aprender.</strong></h3><br>
+<h3 dir="ltr" style="text-align: center ;"><strong style="color:#1A237E;">¡COMENCEMOS!</strong></h3>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}i:1;O:8:"stdClass":4:{s:2:"id";s:2:"36";s:4:"name";s:34:"Bases y fundamentos del Territorio";s:7:"summary";s:228:"<p dir="ltr" style="text-align: left;"></p>
+<p>Iniciando con la
+    Constitución de la República Bolivariana de Venezuela se mostrarán
+    algunos elementos que señalan como esta conformado el territorio:</p><br>
+<p></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:13:"ConTerritorio";s:8:"fullname";s:28:"Conocimientos del Territorio";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1642105025";}
